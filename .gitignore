@@ -1,0 +1,7 @@
+nlp_assurance/
+venv/
+__pycache__/
+*.sqlite3
+.DS_Store
+nlp.py
+app.py
